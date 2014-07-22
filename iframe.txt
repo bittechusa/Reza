@@ -1,0 +1,5 @@
+<html>
+<body>
+<iframe src="http://www.amazon.com"></iframe>
+</body>
+</html>
